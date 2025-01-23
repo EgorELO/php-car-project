@@ -1,0 +1,1 @@
+<?php namespace Project\Public\Index;
